@@ -1,4 +1,4 @@
-package com.huanhuan;
+package com.medicine;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
