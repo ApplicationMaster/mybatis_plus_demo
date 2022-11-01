@@ -8,7 +8,8 @@
         <version>2.2.1.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.huanhuan</groupId>
+    <!--修改 groupId 名称为 medicine-->
+    <groupId>com.medicine</groupId>
     <artifactId>mybatis_plus_demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mybatis_plus_demo</name>
